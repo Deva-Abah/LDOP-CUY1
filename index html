@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LDOP</title>
+</head>
+<body>
+    <h1>Hello World</h1>
+    <h2>makan nih</h2>
+    <p>ini merupakan tulisan yang saya bikin menggunakan hutang</p>
+
+    <!--ini merupakan list-->
+    <ul>
+        <li>ini tulisan 1 ya</li>
+        <li>ini tulisan 2 ya</li>
+        <li>ini tulisan 3 ya</li>
+    </ul>
+
+    <ol>
+        <li>ini tulisan 1</li>
+        <li>ini tulisan 2</li>
+        <li>ini tulisan 3</li>
+    </ol>
+
+    <p>Lorem,<strong>Makan Yuk</strong> <i>Makan</i> consectetur <u>adipisicing elit.</u> Voluptas repellat quisquam placeat consectetur, esse nobis possimus dignissimos libero assumenda aspernatur.</p>
+
+    <a href="https://www.youtube.com/" target="_blank">klik disini</a>
+
+    <h1>Ini adalah gambar</h1>
+    <img src="https://4.bp.blogspot.com/-WHY8yd-k5J8/WirwiGJiQmI/AAAAAAAAAWI/G0njZKb3_YwE9jHpN7__X3zlTOguWx7pQCLcBGAs/s180/Gambar-Kucing-Gemuk-Lucu.jpg" alt="Gambar-Kucing-Gemuk-Lucu"> 
+    <a href="https://4.bp.blogspot.com/-WHY8yd-k5J8/WirwiGJiQmI/AAAAAAAAAWI/G0njZKb3_YwE9jHpN7__X3zlTOguWx7pQCLcBGAs/s180/Gambar-Kucing-Gemuk-Lucu.jpg" target="_blank"></a>
+</body>
+<table>
+    <td>Jumlah kucing </td>
+    <td>Kucing 2</td>
+    <td>Kucing 3</td>
+    <td>Kucing 4</td>
+    <td>Kucing 5</td>
+</table>
+</html>
